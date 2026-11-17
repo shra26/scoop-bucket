@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.2/ollama-compat_0.1.2_windows_amd64.zip",
+            "bin": [
+                "ollama-compat.exe"
+            ],
+            "hash": "0ea7189a8b49b8d8960acb4e1b85f818f9d4e6da6e05f475ed9491ca39eb4f2e"
+        },
+        "arm64": {
+            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.2/ollama-compat_0.1.2_windows_arm64.zip",
+            "bin": [
+                "ollama-compat.exe"
+            ],
+            "hash": "a2f26f47d721d3a70012c9f601781758ecebef455160b4f335a4138b5a1abb38"
+        }
+    },
+    "homepage": "https://github.com/shra26/ollama-compatibility-checker",
+    "license": "MIT",
+    "description": "Check which Ollama models will run on your hardware"
+}
