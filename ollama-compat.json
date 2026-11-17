@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.5/ollama-compat_0.1.5_windows_amd64.zip",
+            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.6/ollama-compat_0.1.6_windows_amd64.zip",
             "bin": [
                 "ollama-compat.exe"
             ],
-            "hash": "f4c9d65de258f42450fe48456cb76bf459ebedb5cea6e3a6f95191aa332272e4"
+            "hash": "c770f4befbfcad8719053c6fd14a070f1956599f38e09a3255153edc5145f4b0"
         },
         "arm64": {
-            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.5/ollama-compat_0.1.5_windows_arm64.zip",
+            "url": "https://github.com/shra26/ollama-compatibility-checker/releases/download/v0.1.6/ollama-compat_0.1.6_windows_arm64.zip",
             "bin": [
                 "ollama-compat.exe"
             ],
-            "hash": "60fcc33f0bbb0a9ca36508492c103efd3dfbc90c0db0d2ad6c3f8def18b5a01a"
+            "hash": "91f58b66cf4d17f6a19458c4471526fbd97d9f3196b00588d8f91cc92e501654"
         }
     },
     "homepage": "https://github.com/shra26/ollama-compatibility-checker",
